@@ -2,8 +2,8 @@
 This repo contains all materials for WSDM 2023 tutorial: Proactive Conversational Agents
 
 # Time and Location 
-1. Time:
-2. Location:
+**1. Time:**  
+**2. Location:**  
 
 # Tutorial abstract
 Conversational agents, or commonly known as dialogue systems,
@@ -23,8 +23,8 @@ on automatically expanding ontology space, actively driving conversation by aski
 retrospectively conducting response quality control.
 
 # Tutorial Materials
-1. Slides link
-2. Video link
-3. Related papers
+**1. Slides link**  
+**2. Video link**  
+**3. Related papers**  
 
 # Tutorial Presenters
