@@ -23,8 +23,8 @@ on automatically expanding ontology space, actively driving conversation by aski
 retrospectively conducting response quality control.
 
 # Tutorial Materials
-1. Slides
-2. Video
+1. Slides link
+2. Video link
 3. Related papers
 
 # Tutorial Presenters
