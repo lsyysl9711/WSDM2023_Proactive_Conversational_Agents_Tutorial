@@ -45,7 +45,7 @@ retrospectively conducting response quality control.
 # Tutorial Presenters
 <img src="https://github.com/lsyysl9711/WSDM2023_Proactive_Conversational_Agents_Tutorial/blob/main/imgs/liao-lizi.jpg" width="200px">
 
-[Lizi Liao](https://liziliao.github.io/) is an Assistant Professor at the Singapore Management University, School Of Computing And Information System, where she leads CoAgent research group. She received her Ph.D. from National University of Singapore, advised by Professor [Tat-Seng Chua](https://www.chuatatseng.com/). Dr.Liao has published more than 20 peer-reviewed research papers which include but not limitted to recommendation system, natural language understanding, dialogue modeling and multi-modal learning with more than 5000 citations. 
+[Lizi Liao](https://liziliao.github.io/) is an Assistant Professor at the Singapore Management University, School Of Computing And Information System, where she leads CoAgent research group. She received her Ph.D. from National University of Singapore, advised by Professor [Tat-Seng Chua](https://www.chuatatseng.com/). Dr.Liao has published more than 20 peer-reviewed research papers which include but not limitted to recommendation system, natural language understanding, dialogue modeling and multi-modal learning with more than [5000 citations](https://scholar.google.com.sg/citations?user=W2b08EUAAAAJ&hl=en). 
 
 <img src="https://github.com/lsyysl9711/WSDM2023_Proactive_Conversational_Agents_Tutorial/blob/main/imgs/hui_yang.png" width="200px">
 
