@@ -2,8 +2,8 @@
 This repo contains all materials for WSDM 2023 tutorial: Proactive Conversational Agents
 
 # Time and Location 
-1. Time: 8.30am-12.00pm, Feb 27th, 2023(Singapore Time) **
-2. Location: Carlton Hotel Singapore, 76 Bras Basah Road, Singapore **  
+1. Time: 8.30am-12.00pm, Feb 27th, 2023(Singapore Time)
+2. Location: Carlton Hotel Singapore, 76 Bras Basah Road, Singapore  
 
 # Tutorial abstract
 Conversational agents, or commonly known as dialogue systems,
