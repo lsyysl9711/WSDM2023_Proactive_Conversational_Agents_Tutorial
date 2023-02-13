@@ -23,9 +23,24 @@ on automatically expanding ontology space, actively driving conversation by aski
 retrospectively conducting response quality control.
 
 # Tutorial Materials
-**1. Slides link**  
-**2. Video link**  
-**3. Related papers**  
+## **Slides link**  
+## **Video link**  
+## **Related papers** 
+
+   ### **Proactive Ontology Expansion**
+   #### New intent discovery
+   #### Novel slot induction
+   #### Reflecting experiences for unseen situations
+   ### **Learning to Ask**
+   #### Learning to ask
+   ### **Purposeful Topic Shifting**
+   #### Target-guided topic shifting
+   #### Counterfactual data augmentation
+   #### Out-of-distribution label generation
+   ### **Response Quality Control**
+   #### Types of inappropriate responses
+   #### Language detoxification
+   #### Conservative reinforcement learning
 
 # Tutorial Presenters
 <img src="https://github.com/lsyysl9711/WSDM2023_Proactive_Conversational_Agents_Tutorial/blob/main/imgs/liao-lizi.jpg" width="200px">
