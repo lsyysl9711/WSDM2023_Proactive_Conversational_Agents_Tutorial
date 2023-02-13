@@ -28,6 +28,8 @@ retrospectively conducting response quality control.
 **3. Related papers**  
 
 # Tutorial Presenters
-<img src="https://github.com/lsyysl9711/WSDM2023_Proactive_Conversational_Agents_Tutorial/blob/main/imgs/llz.png" width="100px">
+<img src="https://github.com/lsyysl9711/WSDM2023_Proactive_Conversational_Agents_Tutorial/blob/main/imgs/liao-lizi.jpg" width="200px">
+<img src="https://github.com/lsyysl9711/WSDM2023_Proactive_Conversational_Agents_Tutorial/blob/main/imgs/hui_yang.png" width="200px">
+<img src="https://github.com/lsyysl9711/WSDM2023_Proactive_Conversational_Agents_Tutorial/blob/main/imgs/ShahChirag.jpg" width="200px">
 
 
