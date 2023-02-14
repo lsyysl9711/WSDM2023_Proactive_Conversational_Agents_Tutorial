@@ -29,19 +29,71 @@ retrospectively conducting response quality control.
 
    ### **Proactive Ontology Expansion**
    #### New intent discovery
+   Discovering New Intents Via Constrained Deep Adaptive Clustering With Cluster Refinement AAAI 2020. [PDF](https://arxiv.org/pdf/1911.08891.pdf)
+   
+   Discovering New Intents With Deep Aligned Clustering AAAI 2021. [PDF](https://arxiv.org/pdf/2012.08987.pdf)
    #### Novel slot induction
+   MMConv: An Environment For Multimodal Conversational Search Across Multiple Domains SIGIR 2021. [PDF](https://liziliao.github.io/papers/2021sigir_mmconv.pdf)
+   
+   Bridge To Target Domain By Prototypical Contrastive Learning And Label Confusion: Re-Explore Zero-Shot Learning For Slot Filling EMNLP 2021. [PDF](https://arxiv.org/pdf/2110.03572.pdf)
+   
+   Semi-Supervised New Slot Discovery With Incremental Clustering EMNLP Findings 2022. [PDF](https://liziliao.github.io/papers/Semi_supervised.pdf)
+   
+   Novel Slot Detection: A Benchmark for Discovering Unknown Slot Types In The Task-Oriented Dialogue System ACL 2021. [PDF](https://aclanthology.org/2021.acl-long.270.pdf)
+   
+   Automatic Intent-Slot Induction For Dialogue Systems WWW 2021. [PDF](https://arxiv.org/pdf/2103.08886.pdf)
    #### Reflecting experiences for unseen situations
+   Reflecting On Experiences for Response Generation MM 2022. [PDF](https://liziliao.github.io/papers/Ref2022.pdf)
    ### **Learning to Ask**
    #### Learning to ask
+   Learning To Ask Critical Questions for Assisting Product Search SIGIR Workshop Ecom 2022. [PDF](https://sigir-ecom.github.io/ecom22Papers/paper_6978.pdf)
+   
+   Learning To Ask Appropriate Questions In Conversational Recommendation SIGIR 2021. [PDF](https://arxiv.org/pdf/2105.04774.pdf)
+   
+   Towards Question-Based Recommender Systems SIGIR 2020. [PDF](https://arxiv.org/pdf/2005.14255.pdf)
+   
+   Learning to ask: Question-Based Sequential Bayesian Product Search CIKM 2019. [PDF](https://arxiv.org/pdf/1908.11733.pdf)
    ### **Purposeful Topic Shifting**
    #### Target-guided topic shifting
+   Topic-Guided Conversational Recommender In Multiple Domain TKDE 2020. [PDF](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=8653&context=sis_research)
+   
+   Target-Guided Open-Domain Conversation ACL 2019. [PDF](https://aclanthology.org/P19-1565.pdf)
+   
+   Conversational Graph Grounded Policy Learning For Open-Domain Conversation Generation ACL 2020. [PDF](https://aclanthology.org/2020.acl-main.166.pdf)
    #### Counterfactual data augmentation
+   Balancing Reinforcement Learning Training Experiences In Interactive Information Retrieval SIGIR 2020. [PDF](https://arxiv.org/pdf/2006.03185.pdf)
+   
+   Topic Shift Detection for Mixed Initiative Response SGDD 2021. [PDF](https://aclanthology.org/2021.sigdial-1.17.pdf)
+   
+   High-Quality Dialogue Diversification By Intermittent Short Extension Ensembles ACL Findings 2021. [PDF](https://aclanthology.org/2021.findings-acl.163.pdf)
+    
+   The information bottleneck method ACCCC 1999. [PDF](https://www.cs.huji.ac.il/labs/learning/Papers/allerton.pdf)
    #### Out-of-distribution label generation
+   Agreement-On-The-Line: Predicting The Performance Of Neural Networks Under Distribution Shift NIPS 2022. [PDF](https://openreview.net/pdf?id=EZZsnke1kt)
+   
+   Accuracy On The Line: On The Strong Correlation Between Out-Of-Distribution And In Distribution Generalization ICML 2021 [PDF](https://proceedings.mlr.press/v139/miller21b/miller21b.pdf)
    ### **Response Quality Control**
    #### Types of inappropriate responses
+   SafetyKit: First Aid For Measuring Safety In Open-Domain Conversational Systems ACL 2021. [PDF](https://aclanthology.org/2022.acl-long.284.pdf)
    #### Language detoxification
+   Just Say No: Analyzing The Stance Of Neural Dialogue Generation In Offensive Contexts EMNLP 2021. [PDF](https://aclanthology.org/2021.emnlp-main.397.pdf)
+   
+   Build it Break It Fix It For Dialogue Safety: Robustness From Adversarial Human Attack EMNLP 2019. [PDF](http://aclanthology.lst.uni-saarland.de/D19-1461.pdf)
+   
+   Mitigating Harm In Language Models With Conditional-Likelihood Filtration ARXIV 2021. [PDF](https://arxiv.org/pdf/2108.07790.pdf)
    #### Conservative reinforcement learning
-
+   Balancing Reinforcement Learning Training Experiences In Interactive Information Retrieval SIGIR 2020. [PDF](https://arxiv.org/pdf/2006.03185.pdf)
+   
+   Deep Reinforcement Learning In A Handful Of Trials Using Probabilistic Dynamics Models NIPS 2018. [PDF](https://proceedings.neurips.cc/paper/2018/file/3de568f8597b94bda53149c7d7f5958c-Paper.pdf)
+   
+   Conservative Q-Learning For Offline Reinforcement Learning NIPS 2020. [PDF](https://proceedings.neurips.cc/paper/2020/file/0d2b2061826a5df3221116a5085a6052-Paper.pdf)
+   
+   Proximal Policy Optimization Algorithms ARXIV 2017. [PDF](https://arxiv.org/pdf/1707.06347.pdf)
+   
+   High-Quality Diversification for Task-Oriented Dialogue Systems ACL Findings 2021. [PDF](https://aclanthology.org/2021.findings-acl.163.pdf)
+   
+   CHAI: A CHatbot AI for Task-Oriented Dialogue with Offline Reinforcement Learning NAACL 2022. [PDF](https://aclanthology.org/2022.naacl-main.332.pdf)
+   
 # Tutorial Presenters
 <img src="https://github.com/lsyysl9711/WSDM2023_Proactive_Conversational_Agents_Tutorial/blob/main/imgs/liao-lizi.jpg" width="200px">
 
