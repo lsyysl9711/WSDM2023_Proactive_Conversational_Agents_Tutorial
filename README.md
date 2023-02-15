@@ -24,7 +24,9 @@ retrospectively conducting response quality control.
 
 # Tutorial Materials
 ## **Slides link**  
+TBD
 ## **Video link**  
+TBD
 ## **Related papers** 
 
    ### **Proactive Ontology Expansion**
