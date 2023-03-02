@@ -24,7 +24,7 @@ retrospectively conducting response quality control.
 
 # Tutorial Materials
 ## **Slides link**  
-TBD
+Please click [here](https://github.com/lsyysl9711/WSDM2023_Proactive_Conversational_Agents_Tutorial/blob/main/Proactive%20Conversational%20Agents%20-%20Tutorial.pdf)
 ## **Video link**  
 TBD
 ## **Related papers** 
