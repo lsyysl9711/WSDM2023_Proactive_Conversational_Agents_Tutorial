@@ -46,6 +46,16 @@ TBD
    Automatic Intent-Slot Induction For Dialogue Systems WWW 2021. [PDF](https://arxiv.org/pdf/2103.08886.pdf)
    #### Reflecting experiences for unseen situations
    Reflecting On Experiences for Response Generation MM 2022. [PDF](https://liziliao.github.io/papers/Ref2022.pdf)
+   
+   Generate rather than Retrieve: Large Language Models are Strong Context Generators ICLR 2023. [PDF](https://arxiv.org/pdf/2209.10063.pdf)
+   
+   Copy Is All You Need ICLR 2023. [PDF](https://openreview.net/pdf?id=CROlOA9Nd8C)
+   
+   Cross Copy Network for Dialogue Generation ACL 2020. [PDF](https://aclanthology.org/2020.emnlp-main.149.pdf)
+   
+   Multimodal Chain-of-Thought Reasoning in Language Models ARXIV 2023. [PDF](https://arxiv.org/pdf/2302.00923.pdf)
+   
+   Automatic Chain of Thought Prompting in Large Language Models ARXIV 2023. [PDF](https://arxiv.org/pdf/2210.03493.pdf)
    ### **Learning to Ask**
    #### Learning to ask
    Learning To Ask Critical Questions for Assisting Product Search SIGIR Workshop Ecom 2022. [PDF](https://sigir-ecom.github.io/ecom22Papers/paper_6978.pdf)
