@@ -106,6 +106,15 @@ TBD
    
    CHAI: A CHatbot AI for Task-Oriented Dialogue with Offline Reinforcement Learning NAACL 2022. [PDF](https://aclanthology.org/2022.naacl-main.332.pdf)
    
+   ### **GPT Related Things**
+   Training language models to follow instructions with human feedback NIPS 2022. [PDF](https://arxiv.org/pdf/2203.02155.pdf)
+   
+   Language Models are Few-Shot Learners NIPS 2020. [PDF](https://arxiv.org/pdf/2005.14165.pdf)
+   
+   BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation ICML 2022. [PDF](https://arxiv.org/pdf/2201.12086.pdf)
+   
+   BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models ARXIV 2023. [PDF](https://arxiv.org/pdf/2301.12597.pdf) 
+   
 # Tutorial Presenters
 <img src="https://github.com/lsyysl9711/WSDM2023_Proactive_Conversational_Agents_Tutorial/blob/main/imgs/liao-lizi.jpg" width="200px">
 
